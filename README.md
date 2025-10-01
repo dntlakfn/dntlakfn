@@ -27,7 +27,6 @@
 <img src="https://img.shields.io/badge/Java-d60606?style=flat-square&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/CS-512BD4?style=flat-square&logo=c#&logoColor=512BD4"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=0c79c2"/>
-<img src="https://img.shields.io/badge/JS(조금)-F7DF1E?style=flat-square&logo=javascript&logoColor=000000"/>
 
 <br>
 <br>
